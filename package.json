@@ -1,7 +1,7 @@
 {
   "name": "distributions-uniform-random",
   "version": "0.0.0",
-  "description": "Generates uniform distributed random variates.",
+  "description": "Generates uniform distributed random numbers.",
   "author": {
     "name": "Philipp Burckhardt",
     "email": "pburckhardt@outlook.com"

@@ -2,7 +2,7 @@ Uniform Random Variables
 ===
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coverage Status][codecov-image]][codecov-url] [![Dependencies][dependencies-image]][dependencies-url]
 
-> Creates a [matrix](https://github.com/dstructs/matrix) or array filled with draws from an [uniform distribution](https://en.wikipedia.org/wiki/Uniform_distribution).
+> Creates a [matrix](https://github.com/dstructs/matrix) or array filled with draws from a [uniform distribution](https://en.wikipedia.org/wiki/Uniform_distribution).
 
 
 ## Installation
